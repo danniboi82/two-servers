@@ -1,6 +1,11 @@
 // Require/import the HTTP module
 var http = require("http");
 //I am adding a bit of comments to see if changes can be pushed... Trying to relearn this whole github shit... 
+//I think i'm getting there but still kind of confused. 
+// Basically i created a git init then git pulled to that remote repository
+//then tried to push but woudln't unless I set the remote as the upstream
+//after I set remote as upstream i was able to add/commit/push initial changes but will this 
+//setting stay or will i have to set up stream everytime???? 
 
 // Define a port to listen for incoming requests
 var PORTONE = 7000;
